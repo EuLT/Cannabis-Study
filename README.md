@@ -28,5 +28,4 @@ This project is an analysis of the cannabis quality to find the factors that aff
 
 ## Recommendations
 - The main factors affecting the quality are Vig, Crown_Fm and PmCno
-- Take another more balanced dataset
 - Get a more balanced dataset that contains Binomial classes
